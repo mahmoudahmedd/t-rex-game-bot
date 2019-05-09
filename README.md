@@ -1,4 +1,3 @@
-# T-REX Game Bot
 T-REX Game
 ---
 T-REX game is a running dinosaur... Jump the dino over the cacti to gain points.
